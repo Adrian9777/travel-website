@@ -8,12 +8,10 @@
 body {
     font-family: "Bangers", sans-serif;
     font-size: 18px;
-<<<<<<< HEAD
-}
-=======
     padding: 0;
     margin: 0;
-}
+}  
+
 
 .top {
     background: url("https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?ixlib=rb-1.2.1&auto=format&fit=crop&w=2016&q=80");
@@ -37,7 +35,7 @@ ul{
     list-style-type: none;
 }
 
-.class li {
+.iconUeberschrift li {
     float: left;
     padding: 20px;
     font-size: 2rem;
@@ -49,7 +47,6 @@ ul{
 
 .container{
     display: flex;
-    flex-direction: row;
     flex-wrap: wrap;
     height: 100vh;
 }
@@ -71,4 +68,3 @@ ul{
     width: 50%;
     height: 100vh;
    }
->>>>>>> 38100bd (section 1 und 2 fertig)
